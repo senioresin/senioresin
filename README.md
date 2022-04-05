@@ -1,11 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senioresin&theme=default&show_icons=true) require 'rugged'
-require 'linguist'
-
-repo = Rugged::Repository.new('.')
-project = Linguist::Repository.new(repo, repo.head.target_id)
-project.language       #=> "Ruby"
-project.languages      #=> { "Ruby" => 119387 }
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senioresin&theme=default&show_icons=true) 
 
 ### Hi there 👋, Beytullah ESİN
 
