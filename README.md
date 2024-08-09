@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Full Stack Developer<br>My company www.seniorbe.com<br>Tech Stack<br>JS / React / Swift iOS / SQL / Node js
+I'm Developer<br>My company www.seniorbe.com<br>Tech Stack<br>JS / React / Swift iOS / SQL / Node js
 
 
 ## 🌐 Socials:
